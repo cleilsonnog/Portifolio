@@ -26,6 +26,12 @@ body {
     text-decoration: none;
 }
 
+.cabecalho__menu__link:hover {
+    background-color: #272727;
+    padding: 7px;
+}
+
+
 .titulo-destaque {
     color:#22D4FD;
 }
